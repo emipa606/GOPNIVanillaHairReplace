@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Afro.label>afro</Afro.label>
   <Bob.label>bob</Bob.label>
   <Burgundy.label>burgundy</Burgundy.label>
@@ -25,6 +24,4 @@
   <GreasySwoop.label>greasy swoop</GreasySwoop.label>
   <Curly.label>curly</Curly.label>
   <Scatman.label>scatman</Scatman.label>
-
-
 </LanguageData>
