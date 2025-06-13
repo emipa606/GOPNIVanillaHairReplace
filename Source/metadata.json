@@ -2,5 +2,11 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " texture replacement",
+    " visual improvement"
+  ],
+  "LastXmlCleaning": "2025-06-13T20:45:58.6013219+02:00"
 }
