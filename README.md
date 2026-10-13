@@ -1,13 +1,13 @@
 # [GOPNI VanillaHair Replace (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2039018341)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of GOPNI,MilSuUpZas mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1776097153
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 This Mod changes 'Vanilla Hair' to Texture of high quality.
  바닐라 헤어를 높은 퀄리티의 텍스쳐로 바꿔줍니다.
@@ -16,13 +16,13 @@ This Mod changes 'Vanilla Hair' to Texture of high quality.
  - https://steamcommunity.com/sharedfiles/filedetails/?id=1778914844
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -30,4 +30,4 @@ This Mod changes 'Vanilla Hair' to Texture of high quality.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/GOPNIVanillaHairReplace?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2039018341) | tags:  texture replacement,  visual improvement
+[![Image](https://img.shields.io/github/v/release/emipa606/GOPNIVanillaHairReplace?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2039018341) | visual improvement, texture replacement
